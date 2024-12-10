@@ -1,4 +1,4 @@
-# HTML_CSS_Acticity
+# HTML_CSS_Activity
 #
 #
 ########
