@@ -1,0 +1,58 @@
+body {
+    font-family: 'Comic Neue', sans-serif;
+    background: linear-gradient(to right, #f0f8ff, #a0681f);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+       font-family: 'Lobster', cursive;     /*fancy font for headings */
+       font-size: 2.5rem;
+       color: #333;
+  }
+  
+  
+  
+  h2 {
+    font-family: 'Pacifico', cursive;;
+    font-size: 2rem;
+    color: #651c1c;
+  }
+
+  /* Add spacing between sections */
+  .introduction {
+       margin-bottom: 50px;    /*Adds space below the "About Me" section */
+  }
+
+  .two-truths-and-a-lie {
+       padding: 90px;
+       background: #bc8a8a;
+       border: 30px solid #ddd;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+       border-radius: 8px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    background: #dbd52f;
+    border: 1px solid #ddd;
+    margin: 5px 0;
+  }
+  
+  li:hover {
+    background: #97c332;
+    cursor: pointer;
+
+  }
+  
